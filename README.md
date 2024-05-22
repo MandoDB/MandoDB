@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-![Image](https://images-ext-1.discordapp.net/external/dcAJdGQP0pntLNllThwhv0F6iSsFA03WYACQICwX1OI/https/i.imgur.com/MLOHoIZ.mp4)
+![Image](https://media.discordapp.net/attachments/688722877377544279/1242788143644672001/image.png?ex=664f1c27&is=664dcaa7&hm=c628f08b14a835b315c4933a375a8018b88fb23ba2100db24d3eab9fcacd9d92&=&format=webp&quality=lossless&width=1100&height=534)
 
 ###
 
