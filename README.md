@@ -34,7 +34,11 @@
 
 <br clear="both">
 
-![Test Image](https://i.imgur.com/MLOHoIZ.gif)
+<div align="center">
+  <img height="200" src="https://i.imgur.com/MLOHoIZ.gif"  />
+</div>
+
+
 ###
 
 <h2 align="center">𝘽𝙚𝙞𝙣𝙜 𝙖 𝙈𝙖𝙣𝙙𝙖𝙡𝙤𝙧𝙞𝙖𝙣'𝙨 𝙣𝙤𝙩 𝙟𝙪𝙨𝙩 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙖𝙗𝙤𝙪𝙩 𝙝𝙤𝙬 𝙩𝙤 𝙛𝙞𝙜𝙝𝙩, 𝙮𝙤𝙪 𝙖𝙡𝙨𝙤 𝙝𝙖𝙫𝙚 𝙩𝙤 𝙠𝙣𝙤𝙬 𝙝𝙤𝙬 𝙩𝙤 𝙣𝙖𝙫𝙞𝙜𝙖𝙩𝙚 𝙩𝙝𝙚 𝙜𝙖𝙡𝙖𝙭𝙮.<br> <br>𝙏𝙝𝙖𝙩 𝙬𝙖𝙮, 𝙮𝙤𝙪'𝙡𝙡 𝙣𝙚𝙫𝙚𝙧 𝙗𝙚 𝙡𝙤𝙨𝙩.</h2>
