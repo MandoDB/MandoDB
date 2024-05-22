@@ -80,6 +80,4 @@
 
 <br clear="both">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MandoDB)](https://git.io/streak-stats)
-
 ###
