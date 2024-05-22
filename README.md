@@ -34,10 +34,7 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://i.imgur.com/MLOHoIZ.gif"  />
-</div>
-
+![Image](https://images-ext-1.discordapp.net/external/dcAJdGQP0pntLNllThwhv0F6iSsFA03WYACQICwX1OI/https/i.imgur.com/MLOHoIZ.mp4)
 
 ###
 
