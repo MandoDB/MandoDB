@@ -83,6 +83,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mandodb/mandodb/output/snake.svg" alt="Snake animation" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MandoDB)](https://git.io/streak-stats)
 
 ###
