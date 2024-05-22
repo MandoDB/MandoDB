@@ -65,11 +65,3 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/x7qrqf0n5vfvpdspxx92330ag">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=x7qrqf0n5vfvpdspxx92330ag&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
